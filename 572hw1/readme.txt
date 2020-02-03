@@ -1,0 +1,1 @@
+if hw1.py is not working: first use scraper.py, then use hw1(compare part)
